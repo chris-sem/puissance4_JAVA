@@ -1,0 +1,121 @@
+
+g
+java:S1192ü"PDefine a constant instead of duplicating this literal "Victoire pour " 14 times.(ó­Ó
+m
+java:S1192©"QDefine a constant instead of duplicating this literal "Tempus Sans ITC" 15 times.(ì‚çÆÿÿÿÿÿ
+d
+java:S1192ï"MDefine a constant instead of duplicating this literal " de jouer !" 14 times.(“ÈË
+d
+java:S1192›"HDefine a constant instead of duplicating this literal "Tahoma" 13 times.(ó‘Ş£úÿÿÿÿ
+c
+java:S1192ˆ"LDefine a constant instead of duplicating this literal "Match nul !" 7 times.(Ò°™Æ
+b
+java:S1192ï"KDefine a constant instead of duplicating this literal "C'est Ã  " 16 times.(“ÈË
+?
+java:S1604´"(Make this anonymous inner class a lambda(À¢º
+D
+java:S1604½"(Make this anonymous inner class a lambda(ñÔõŞùÿÿÿÿ
+D
+java:S1604Ó"(Make this anonymous inner class a lambda(âÒÅ‹ıÿÿÿÿ
+?
+java:S1604İ"(Make this anonymous inner class a lambda(¹âøË
+?
+java:S1604ç"(Make this anonymous inner class a lambda(Äïæ“
+?
+java:S1604ñ"(Make this anonymous inner class a lambda( §îˆ
+D
+java:S1604û"(Make this anonymous inner class a lambda(È”Õúÿÿÿÿ
+?
+java:S1604…"(Make this anonymous inner class a lambda(âğ¯
+?
+java:S1604"(Make this anonymous inner class a lambda(·¨ïô
+?
+java:S1604©"(Make this anonymous inner class a lambda(æ©Øä
+D
+java:S1604ë"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+i
+java:S1104"NMake j1 a static final constant or non-public and provide accessors if needed.(Ë‰êŞüÿÿÿÿ
+c
+java:S1104"NMake j2 a static final constant or non-public and provide accessors if needed.(áê•*
+f
+java:S1104"PMake tour a static final constant or non-public and provide accessors if needed.(úÊØÊ
+h
+java:S1104"MMake p a static final constant or non-public and provide accessors if needed.(ÖòöÉùÿÿÿÿ
+
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î÷“úÿÿÿÿ
+r
+java:S1450û"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450ü"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+s
+java:S1450ı"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450ş"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+s
+java:S1450ÿ"WRemove the "jLabel13" field and declare it as a local variable in the relevant methods.(ÑİĞİıÿÿÿÿ
+s
+java:S1450€"WRemove the "jLabel14" field and declare it as a local variable in the relevant methods.(ÖóœÍıÿÿÿÿ
+s
+java:S1450"WRemove the "jLabel15" field and declare it as a local variable in the relevant methods.(³şâçøÿÿÿÿ
+s
+java:S1450‚"WRemove the "jLabel16" field and declare it as a local variable in the relevant methods.(š¼ª¯üÿÿÿÿ
+r
+java:S1450ƒ"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450„"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450…"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450†"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450‡"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450ˆ"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450‰"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450Š"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450‹"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450Œ"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+m
+java:S1450"VRemove the "jPanel3" field and declare it as a local variable in the relevant methods.(Œ³èÈ
+r
+java:S1450"VRemove the "jPanel4" field and declare it as a local variable in the relevant methods.(§É†¬şÿÿÿÿ
+l
+java:S1450"VRemove the "jPanel6" field and declare it as a local variable in the relevant methods.(í›åv
+m
+java:S1450‘"VRemove the "jPanel7" field and declare it as a local variable in the relevant methods.(…‘ï°
+m
+java:S1450–"VRemove the "rejouer" field and declare it as a local variable in the relevant methods.(ã¬êÉ
+X
+java:S3252ë"AUse static access with "javax.swing.SwingConstants" for "CENTER".(çø’å
+F
+java:S1172Ş"*Remove this unused method parameter "evt".(î÷“úÿÿÿÿ
+F
+java:S1172â"*Remove this unused method parameter "evt".(©İÛéùÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(÷º˜Øıÿÿÿÿ
+F
+java:S1172¾"*Remove this unused method parameter "evt".(¤¨¿Òıÿÿÿÿ
+F
+java:S1172ì"*Remove this unused method parameter "evt".(¥Ç¸úÿÿÿÿ
+F
+java:S1172š"*Remove this unused method parameter "evt".(ºÚº¯øÿÿÿÿ
+A
+java:S1172È"*Remove this unused method parameter "evt".(Š‘÷–
+A
+java:S1172ö"*Remove this unused method parameter "evt".(¥³¦«
+A
+java:S1172¤"*Remove this unused method parameter "evt".(ªäÃé
+A
+java:S1172Ã"*Remove this unused method parameter "evt".(¬‹ôø
+F
+java:S1197Ñ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147à"ECombine this catch with the one at line 990, which has the same body.(¨¦Š½
+\
+java:S2147â"ECombine this catch with the one at line 992, which has the same body.(ã€ 
+[
+java:S2147ä"ECombine this catch with the one at line 994, which has the same body.(ñÎ¯%
